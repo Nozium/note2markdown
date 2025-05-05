@@ -1,6 +1,6 @@
 # XML to Markdown Converter
 
-WordPress/Note.com エクスポートのXMLファイルを読み込み、各記事を個別のMarkdownファイルに変換するツールです。HTMLコンテンツをクリーンなMarkdown形式に自動変換します。
+[note.com エクスポート機能](https://www.help-note.com/hc/ja/articles/16143457500953-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E6%A9%9F%E8%83%BD%E3%81%AE%E4%BB%95%E6%A7%98)のXMLファイルを読み込み、各記事を個別のMarkdownファイルに変換するツールです。HTMLコンテンツをクリーンなMarkdown形式に自動変換します。
 
 ## 特徴
 
